@@ -1,0 +1,5 @@
+com.ibm.websphere.samples.pbw.ejb
+com.ibm.websphere.samples.pbw.jpa
+com.ibm.websphere.samples.pbw.utils
+com.ibm.websphere.samples.pbw.war
+pagecode
